@@ -1,9 +1,9 @@
 # MongoProjekat
 
 
--Pokrenuti mongo server
--Pokrenuti dotnet web api
--Pokrenuti react server
-
--Slike i video dodavati kao URL
--Za admin opcije ulogovati se sa username: admin i password: admin
+-Pokrenuti mongo server <br />
+-Pokrenuti dotnet web api<br />
+-Pokrenuti react server<br />
+<br />
+-Slike i video dodavati kao URL<br />
+-Za admin opcije ulogovati se sa username: admin i password: admin<br />
